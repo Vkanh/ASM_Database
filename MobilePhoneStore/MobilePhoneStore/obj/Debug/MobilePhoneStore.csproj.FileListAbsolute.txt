@@ -1,0 +1,17 @@
+D:\IT\MobilePhoneStore\MobilePhoneStore\obj\Debug\MobilePhoneStore.csproj.AssemblyReference.cache
+D:\IT\MobilePhoneStore\MobilePhoneStore\obj\Debug\MobilePhoneStore.AdminFrom.resources
+D:\IT\MobilePhoneStore\MobilePhoneStore\obj\Debug\MobilePhoneStore.LoginFrom.resources
+D:\IT\MobilePhoneStore\MobilePhoneStore\obj\Debug\MobilePhoneStore.ManageEmployee.resources
+D:\IT\MobilePhoneStore\MobilePhoneStore\obj\Debug\MobilePhoneStore.Properties.Resources.resources
+D:\IT\MobilePhoneStore\MobilePhoneStore\obj\Debug\MobilePhoneStore.SaleForm.resources
+D:\IT\MobilePhoneStore\MobilePhoneStore\obj\Debug\MobilePhoneStore.WarehouseManagerForm.resources
+D:\IT\MobilePhoneStore\MobilePhoneStore\obj\Debug\MobilePhoneStore.csproj.GenerateResource.cache
+D:\IT\MobilePhoneStore\MobilePhoneStore\obj\Debug\MobilePhoneStore.csproj.CoreCompileInputs.cache
+D:\IT\MobilePhoneStore\MobilePhoneStore\bin\Debug\MobilePhoneStore.exe.config
+D:\IT\MobilePhoneStore\MobilePhoneStore\bin\Debug\MobilePhoneStore.exe
+D:\IT\MobilePhoneStore\MobilePhoneStore\bin\Debug\MobilePhoneStore.pdb
+D:\IT\MobilePhoneStore\MobilePhoneStore\obj\Debug\MobilePhoneStore.exe
+D:\IT\MobilePhoneStore\MobilePhoneStore\obj\Debug\MobilePhoneStore.pdb
+D:\IT\MobilePhoneStore\MobilePhoneStore\obj\Debug\MobilePhoneStore.ManageProduct.resources
+D:\IT\MobilePhoneStore\MobilePhoneStore\obj\Debug\MobilePhoneStore.OrderHistory.resources
+D:\IT\MobilePhoneStore\MobilePhoneStore\obj\Debug\MobilePhoneStore.ManageCustomer.resources
